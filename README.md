@@ -14,3 +14,5 @@ And much more!
 
 https://user-images.githubusercontent.com/84209391/205454193-b156e67f-050f-4e1d-b03c-358e04859022.mp4
 
+## Wanna test the application yourself? 
+Go ahead and install the JAVA JDK on your computer and clone this repo. Once that is done, run the application in your IDE of choice and enjoy!!
